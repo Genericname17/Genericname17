@@ -1,5 +1,13 @@
-## Project 1: makeing this readme file 
-Demo Link:https://github.com/Genericname17/Genericname17 
-Tech used:Desktop-Cisco Networking
-Status:Complete 
-Creddits:Genericname17
+## Project 1
+
+**Demo Link:**  
+https://github.com/Genericname17/Genericname17  
+
+**Tech Used:**  
+Desktop Cisco Networking  
+
+**Status:**  
+Complete  
+
+**Credits:**  
+Genericname17
